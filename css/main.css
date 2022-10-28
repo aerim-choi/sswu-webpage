@@ -444,20 +444,24 @@ header .item__name_one.action,
     width: 100%;
     
 }
-.sungshin-news{
-    width: 1580px;
-    margin: 0 auto;
-    background-color: aqua;
-    height: 500px;
-}
 
 .sungshin-news2{
     width: 1580px;
     margin: 0 auto;
-    background-color: aquamarine;
-    height: 500px;
+    
+    height: 400px;
 }
-
+.hider {
+   position : relative;
+   height : 500px; 
+   margin: 150px 200px;
+}
+.sungshin-news2>.hider>img {
+    width : 350px;
+    height : 320px;
+    margin-right : 200px;
+    left : 300px;
+}
 /* .sungshin-press{
     width: 1580px;
     margin: 0 auto;
