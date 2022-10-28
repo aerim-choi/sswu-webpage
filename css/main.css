@@ -53,7 +53,7 @@ header .search {
     left: 83%;
     height: 22px;
     font-size: 18.4px;
-    
+    position: fixed;
 }
 
 header .login {
@@ -68,7 +68,7 @@ header .login {
     left: 85.5%;
     margin: 0;
     font-size: 18.4px;
-
+    position: fixed;
 }
 
 header .language {
@@ -84,7 +84,7 @@ header .language {
     height: 19px;
     margin: 0;
     font-size: 18.4px;
-    
+    position: fixed;
 }
 
 header .portal {
@@ -100,7 +100,7 @@ header .portal {
     margin: 0;
     color: #ffffff;
     font-size: 18.4px;
-
+    position: fixed;
 }
 
 header .LMS {
@@ -113,7 +113,7 @@ header .LMS {
     margin: 0;
     color: #ffffff;
     font-size: 18.4px;
-
+    position: fixed;
 }
 
 header .main {
