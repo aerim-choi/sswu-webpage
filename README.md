@@ -1,2 +1,0 @@
-# sswu-webpage
-ㅜ
